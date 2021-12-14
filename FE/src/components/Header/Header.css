@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    border-bottom: 1px solid #EEEEEE;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .MuiToolbar-root {
+    display: flex;
+    justify-content:space-between;
+}
+
+.header img {
+    border-radius: 50%;
+    max-width: 2rem;
+}
