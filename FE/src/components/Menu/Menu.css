@@ -1,4 +1,10 @@
-.menu button {
+.menu button,
+.menu__dialog button {
     box-shadow: none !important;
     padding-left: 0 !important;
 }
+
+.menu__items div > * {
+    text-align: center;
+}
+
